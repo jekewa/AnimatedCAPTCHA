@@ -5,6 +5,8 @@ A simple JSP that provides a random string of characters over a background of bu
 
 Better than simple images, the characters wiggle and disappear, and the background moves, to help defeat OCR.
 
+<img src="https://jekewa.com/jsp/AnimatedCaptcha.jsp">
+
 AnimatedCAPTCHA.jsp
 -------------------
 The JSP page. Ensure there is no whitespace at the beginning of the file (as an IDE's format tool will occasionally break this) as the output must be written by the scriptlet.
